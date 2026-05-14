@@ -1,0 +1,9 @@
+{
+  "width": 300,
+  "height": 300,
+  "font_size": 45,
+  "font_path": "./assets/font.ttf",
+  "colors_path": "./configs/colors.json",
+  "output_dir": "./output",
+  "truncate_length": 2
+}
